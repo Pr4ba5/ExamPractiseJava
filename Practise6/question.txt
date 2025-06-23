@@ -1,0 +1,10 @@
+Practice Q6
+Design a simple GUI tool to show prices of stationery items.
+Your task:
+• Build a StationeryItem class with relevant attributes.
+• Use a ComboBox for selection:
+o Pen – Rs. 20
+o Notebook – Rs. 100
+o Marker – Rs. 60
+• Add a button that shows the price of the selected item.
+• Show a warning message if no item is selected.

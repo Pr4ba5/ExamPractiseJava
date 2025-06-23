@@ -1,0 +1,9 @@
+Practice Q1
+You are developing a secure access system for a university club. Members must enter their
+username and password to view internal club content.
+Requirements:
+• Store member credentials using a HashMap<String, String>.
+• Prompt the user to input their username and password.
+• If the username doesn’t exist, throw MemberNotRegisteredException.
+• If the password doesn’t match, throw AccessDeniedException.
+• Handle exceptions and show meaningful feedback messages

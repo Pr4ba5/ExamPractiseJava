@@ -1,0 +1,7 @@
+Practice Q4
+Participants of a workshop are tracked in a file WorkshopLog.txt in this format:
+FullName, Attended/Skipped
+Your program must:
+• Count total attendees and those who skipped.
+• Create a file SkippedList.txt with names of those who didn’t attend.
+• Handle missing file and malformed lines using appropriate exceptions

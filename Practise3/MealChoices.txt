@@ -1,0 +1,12 @@
+Prabhash, Veg
+Saugat, Non-Veg
+Angel, Veg
+Bishesh, Non-Veg
+Prajun, Veg
+Hasil, Non-Veg
+Saraswati, Veg
+Sanjay, Non-Veg
+Bipin, Non-Veg
+Plistha, Veg
+Nischal, Non-Veg
+Simon Lama, Veg

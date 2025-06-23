@@ -1,0 +1,11 @@
+Practice Q2
+Simulate a basic login system for a company’s internal mail service. The system checks:
+• If the email ID is valid.
+• If the password is correct.
+Your program should:
+• Store sample email-password pairs (e.g., user01@org.com → hello123).
+• Take input and validate credentials.
+• Use InvalidEmailException if the email is unknown.
+• Use WrongCredentialsException if the password is incorrect.
+• Catch and display helpful error messages to the user.
+

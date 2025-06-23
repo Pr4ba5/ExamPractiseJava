@@ -1,0 +1,9 @@
+Practice Q3
+You have a file MealChoices.txt with entries like:
+Name, Veg/Non-Veg
+Write a Java program that:
+• Reads each line from the file.
+• Counts how many students chose Veg and Non-Veg.
+• Writes all Non-Veg names into a new file NonVegList.txt.
+• Throws FileNotFoundException if the file is missing.
+• Throws IncompleteDataException for any line not matching the expected format.
