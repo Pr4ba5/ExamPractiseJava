@@ -14,8 +14,8 @@ Topics include **HashMaps**, **File I/O**, **Exception Handling**, and **JavaFX 
 | `Practise2` | Internal mail login using email-password verification     | 10    |
 | `Practise3` | CSV file read/write using BufferedReader/Writer           | 10    |
 | `Practise4` | Attendance tracker with file parsing + Skipped list       | 10    |
-| `Practise5` | Meal choice tracker (Veg/Non-Veg) with exception handling | 10    |
-| `Practise6` | JavaFX GUI: ComboBox + Label for beverage price viewer    | 10    |
+| `Practise5` | JavaFX GUI: ComboBox + Label for beverage price viewer    | 10    |
+| `Practise6` | JavaFX GUI: ComboBox + Label for library things           | 10    |
 
 ---
 
